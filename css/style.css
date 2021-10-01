@@ -1,0 +1,13 @@
+body{
+    margin: 0 auto;
+}
+#f{
+    width: 100%;
+}
+#f2{
+    width: 30%;
+    height: auto;
+    position: absolute;
+    padding-left: 43%;
+    padding-top: 18%;
+}
